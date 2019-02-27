@@ -1,0 +1,15 @@
+saman
+
+samman'Details
+
+
+Age: 25
+Address: gul
+Board: 
+Department: CSIT
+Roll No: 
+Email : sam
+Contact: 54
+
+***
+
